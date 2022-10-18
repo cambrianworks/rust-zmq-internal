@@ -1,3 +1,8 @@
+# Cambrian Works' Public Fork of rust-zmq 
+
+**We published this crate internally so we can use an unreleased features**
+
+
 Rust ZeroMQ bindings.
 
 [![Travis Build Status](https://travis-ci.org/erickt/rust-zmq.png?branch=master)](https://travis-ci.org/erickt/rust-zmq)
