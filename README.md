@@ -1,3 +1,5 @@
+This repo has been archived as [rust-zmq](https://github.com/erickt/rust-zmq) now provides all the functionality we need and therefore we no longer need to maintain our own fork. See [this issue](https://github.com/cambrianworks/iris/issues/111).
+
 # Cambrian Works' Public Fork of rust-zmq 
 
 **We published this crate internally so we can use an unreleased features**
